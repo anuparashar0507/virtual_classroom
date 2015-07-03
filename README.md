@@ -1,2 +1,2 @@
 # virtual_classroom
-This project is not well organized,I am trying to improve it
+i'm trying to reduce amount of the code
