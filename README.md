@@ -1,2 +1,6 @@
 # virtual_classroom
-too many no of lines of code.trying to reduce the code
+This is an appliction built using PHP and MySql
+the major components include
+discussion forum
+video library
+login pages 
