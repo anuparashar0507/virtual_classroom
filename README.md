@@ -3,7 +3,7 @@
   
   This application conntains three differnet users who have different who have access to their relevant resources
   
-  >Students 
+  >students 
   
   file name starts with 's' and all the files  NEW folder :
   
