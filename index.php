@@ -3,10 +3,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>profile</title>
 </head>
-<SCRIPT type="text/javascript">
+<script type="text/javascript">
     window.history.forward();
     function noBack() { window.history.forward(); }
-</SCRIPT>
+</script>
 <body background="images/03.jpg" height="1500" width="100"  > 
 <table  width="1000" height="100" border="0" cellpadding="0" cellspacing="4" >
 
